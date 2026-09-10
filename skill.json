@@ -1,0 +1,15 @@
+{
+  "name": "genpark-verkle-tree-ipa-commitment-skill",
+  "version": "1.0.0",
+  "description": "Verkle Tree multiproof commit-and-open vector evaluation engine creating compact sub-linear state proofs for stateless clients.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "verkle-tree",
+    "ipa",
+    "vector-commitments",
+    "stateless-ethereum"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
